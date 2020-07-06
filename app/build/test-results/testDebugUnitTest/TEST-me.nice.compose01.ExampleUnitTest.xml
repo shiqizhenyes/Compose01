@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="me.nice.compose01.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-06T02:07:33" hostname="Shiqizhens-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="addition_isCorrect" classname="me.nice.compose01.ExampleUnitTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

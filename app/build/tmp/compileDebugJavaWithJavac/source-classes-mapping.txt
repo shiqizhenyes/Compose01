@@ -1,0 +1,2 @@
+me/nice/compose01/BuildConfig.java
+ me.nice.compose01.BuildConfig
